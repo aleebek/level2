@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032f7157-12ff-408a-9c92-8ef2570bac0a" name="Default Changelist" comment="" />
+    <list default="true" id="032f7157-12ff-408a-9c92-8ef2570bac0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/about.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/adminpage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/post/editPost.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/post/singlePost.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +51,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1QhJALtgeQWn1fQDZCBaSE7wFae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/controllers" />
@@ -93,11 +100,22 @@
       <workItem from="1568374587781" duration="2672000" />
       <workItem from="1569001092055" duration="11609000" />
       <workItem from="1569901908969" duration="15577000" />
-      <workItem from="1570926903026" duration="22479000" />
+      <workItem from="1570926903026" duration="23417000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
